@@ -1,16 +1,19 @@
-### Hi there 👋
+![My Profile Picture.](https://r3ykr.github.io/assets/pfp-ico.png "Hey, look! It me! :D")
 
-<!--
-**R3ykr/R3ykr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Reykr.
 
-Here are some ideas to get you started:
+I'm an aspiring game developer and maker of random things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🧰 Things I Use.
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,github,godot,md,py,replit)](https://skillicons.dev)
+
+
+
+## 💻 ~Stalk~ Contact Me?
+
+- Itch.io ([@Reykr](https://reykr.itch.io/))
+- Replit ([@Reykr](https://replit.com/@Reykr) & [@Ryekr](https://replit.com/@Ryekr))
+- Replit Ask ([@Reykr](https://ask.replit.com/u/reykr/summary))
