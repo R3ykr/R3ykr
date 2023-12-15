@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Reykr.
 
-I'm an aspiring game developer and maker of random things.
+I'm an aspiring game developer and creator of random things.
 
 ---
 
