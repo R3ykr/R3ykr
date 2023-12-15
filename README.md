@@ -1,5 +1,3 @@
-![My Profile Picture.](https://r3ykr.github.io/assets/pfp-ico.png "Hey, look! It me! :D")
-
 # 👋 Hi, I'm Reykr.
 
 I'm an aspiring game developer and maker of random things.
