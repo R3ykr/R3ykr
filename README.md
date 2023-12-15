@@ -6,7 +6,19 @@ I'm an aspiring game developer and maker of random things.
 
 ## 🧰 Things I Use.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,github,godot,md,py,replit)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=github,godot,replit)](https://skillicons.dev)
+
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=html,css,md,py)](https://skillicons.dev)
+
+
+### The Other Languages
+- 🇬🇧 | English (Main)
+- 🇨🇳 | Chinese (Learning)
+- 🇫🇷 | French (Learning)
 
 
 
